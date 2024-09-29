@@ -23,7 +23,7 @@
   ## Usage
 
     Answer queries as they appear in the terminal.
-   [Video Walkthrough]()
+   [Video Walkthrough](https://drive.google.com/file/d/13PhcCMZYE9adS1F6bGhHxvdJlVBbfoeK/view?usp=sharing)
     
   ## Screenshots
 
