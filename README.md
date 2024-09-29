@@ -43,7 +43,7 @@
     
       MIT License
 
-      Copyright (c) function getFullYear() { [native code] } renzsupnet
+      Copyright (c) function getFullYear() { [native code] } 
       
       Permission is hereby granted, free of charge, to any person obtaining a copy
       of this software and associated documentation files (the "Software"), to deal
@@ -77,6 +77,6 @@
   
   ## Questions
 
-    Have a questions? Reach out to me at https://github.com/renzsupnet or renzlakers24@gmail.com
+    Have a questions? Reach out to me at https://github.com/jy8liu or jy8liu@gmail.com
   
 # Module_10
